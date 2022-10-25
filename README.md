@@ -5,7 +5,7 @@
 
 ## I'm a Student, Musican, Developer, and Hobbiest!!
 
-- 🔭 I'm working on my first 'real' website: [The Fitz-Net!][website]!
+- 🔭 ~I'm working~ I *was* working on my first 'real' website: [The Fitz-Net!][website]!
 - 🎓 I’m currently enrolled in Brooklyn College & taking a winter JS Bootcamp 
 - 👯 I’m looking to make some cool software with cool people 😎
 - 🥅 2022 Goals: Commit earlier, commit more often, learn more WebDev
