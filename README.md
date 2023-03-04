@@ -60,7 +60,7 @@
 ---
 
 <!-- LINKS -->
-[website]: https://mattlol85.github.io/Fitz-Net-Project/
+[website]: https://fitznet.org
 [twitter]: https://twitter.com/mattylol85
 [instagram]: https://instagram.com/mattlol85
 [linkedin]: https://www.linkedin.com/in/matthew-fitzgerald-3040b6160/
